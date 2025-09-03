@@ -6,6 +6,20 @@ This project demonstrates how to build a beginner-friendly **Task Manager** usin
 **Why Go?**  
 Go is a modern systems language developed by Google. It’s simple, fast, and widely used in cloud infrastructure and backend systems.  
 
+⚙️ Installation & Setup
+Step 1: Install Go
+
+Follow official install guide
+.
+Verify with:
+
+go version
+
+Step 2: Create project folder
+mkdir go-task-manager
+cd go-task-manager
+go mod init go-task-manager
+
 **End Goal:**  
 Build and run a web-based task manager where users can:  
 - Add tasks  
